@@ -216,25 +216,25 @@ section, section > h2 {
 }
 
 #section-1 {
-	background-color: #00E1EF;
+	background-color: green;
 }
 
 #section-2 {
-	background-color: #00E1FF;
+	background-color: blue;
 }
 
 #section-3 {
-	background-color: #80D7FF;
+	background-color: pink;
 }
 
 #section-1 > h2 {
-	background-color: #FF8880;
+	background-color: grey;
 }
 
 #section-2 > h2 {
-	background-color: #FF80AA;
+	background-color: purple;
 }
 
 #section-3 > h2 {
-	background-color: #EC80FF;
+	background-color: red;
 }
